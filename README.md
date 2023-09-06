@@ -27,7 +27,7 @@
 ## Data Preprocessing:
 In this section I am doing all the Data cleaning and analysis. 
 
-I the outcome column 0 represent non diabetic patient and 1 represent diabetic patient.
+In the outcome column 0 represent non diabetic patient and 1 represent diabetic patient.
 
 ![download](https://github.com/arshad33199/Diabetes-Prediction/assets/142779412/3a46a8f8-a184-40a2-8209-69be21384a40)
 
