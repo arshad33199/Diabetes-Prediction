@@ -18,7 +18,7 @@
 
 
 ## Problem Statement:
-This is a Machine learning project with StandardScaler.i am trying to predict the diabetes patient by the training the dataset.
+•	This is a Machine Learning project in which I am using Classification models. I am trying to predict diabetes patient by the training the dataset.
 
 
 
